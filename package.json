@@ -15,5 +15,11 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "5.5.4"
+  },
+  "dependencies": {
+    "@types/node": "20.14.12",
+    "inversify": "6.0.2",
+    "inversify-binding-decorators": "4.0.0",
+    "reflect-metadata": "0.2.2"
   }
 }
